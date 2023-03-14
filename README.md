@@ -5,4 +5,4 @@
 ## Experiencia:
 
 - Aluno Unimar
-- Aluno Etec
+- Aluno Edson Vianei
