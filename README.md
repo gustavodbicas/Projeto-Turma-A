@@ -18,3 +18,4 @@ E-mail: XXXXXXXXXXXX
 
 - Aluno Unimar
 - Aluno Edson Vianei
+- Gustavo De Almeida Bicas
