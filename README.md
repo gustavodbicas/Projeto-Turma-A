@@ -13,3 +13,8 @@ Telefone: XXXXXXXXXXXX
 E-mail: XXXXXXXXXXXX
 
 ---
+
+## Experiencia:
+
+- Aluno Unimar
+- Aluno Edson Vianei
