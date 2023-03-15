@@ -2,6 +2,18 @@
 
 ---
 
+## Dados pessoais:
+
+CPF: XXXXXXXXXX
+
+RG: XXXXXXXXXXX
+
+Telefone: XXXXXXXXXXXX
+
+E-mail: XXXXXXXXXXXX
+
+---
+
 ## Experiencia:
 
 - Aluno Unimar
