@@ -1,6 +1,6 @@
 # Gustavo De Almeida Bicas
-
 ---
+
 
 ## Dados pessoais:
 
